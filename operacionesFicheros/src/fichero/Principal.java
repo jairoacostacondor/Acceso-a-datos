@@ -87,7 +87,8 @@ public class Principal {
 		if(!directorio.exists()) {
 			
 		}
-		
+		njdsjgnsjkgnrkjgnrsjkgnskgnsgknsdg
+		siskgnkgnskgnskgnsdgkngkgn
 		try {
 			//CREAMOS FSICAMENTE EL FICHERO
 			if(!fichero.exists()) {
